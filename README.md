@@ -1,2 +1,3 @@
-# Malaria_CNN.repo
-Simple Colab Notebook for Malaria Detection
+# Malaria_CNN.repo :
+- Simple Colab Notebook for Malaria Detection
+# About Model :
