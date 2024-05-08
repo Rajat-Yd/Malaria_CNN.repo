@@ -16,11 +16,12 @@
   - The <a href = https://www.kaggle.com/datasets/iarunava/cell-images-for-detecting-malaria>Malaria Cells Image</a> dataset consists of 60,000 32x32 color images in 10 classes, with 50,000 images for training and 10,000 images for testing.
     The dataset is provided by Keras.
 - <b>Training</b>:
-  - The model is trained for 10 epochs using the Adam optimizer and the categorical cross-entropy loss function.
+  - The model is trained for 20 epochs using the Adam optimizer and the categorical cross-entropy loss function.
   - The training progress is monitored by printing the loss and accuracy on the training and testing sets.
 - <b>Evaluation</b>:
   - After training, the model is evaluated on the test set.
   - The accuracy on the test set is printed.
+  - We got Loss = 0.5426 and Accuracy is about = 0.9874
 - <b>Additional Information</b>:
   - The code in this notebook can be easily modified to train the CNN on other datasets.
   - The structure of the CNN can also be modified to suit the specific needs of the problem.
