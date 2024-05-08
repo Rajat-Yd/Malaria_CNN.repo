@@ -13,7 +13,7 @@
     - The fully-connected layer has 64 neurons and uses the ReLU activation function.
     - The output layer has 10 neurons and uses the softmax activation function.
 - <b>Dataset</b>:
-  - The CIFAR-10 dataset consists of 60,000 32x32 color images in 10 classes, with 50,000 images for training and 10,000 images for testing.
+  - The <a href = https://www.kaggle.com/datasets/iarunava/cell-images-for-detecting-malaria>Malaria Cells Image</a> dataset consists of 60,000 32x32 color images in 10 classes, with 50,000 images for training and 10,000 images for testing.
     The dataset is provided by Keras.
 - <b>Training</b>:
   - The model is trained for 10 epochs using the Adam optimizer and the categorical cross-entropy loss function.
