@@ -1,5 +1,6 @@
 # Malaria_CNN.repo :
 - Simple Colab Notebook for Malaria infected cells in blood detection based on images provided
+- Complete ✅
 # About Model :
 - A complex enough CNN model for detection of Maleria.
 - This model detect maleria presence based on cellular images provided to it.
